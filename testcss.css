@@ -1,0 +1,13 @@
+body{
+	direction: rtl;
+}
+.s1{
+	width: 100%;
+	background-color: aqua;
+	font-family: b lotus;
+	font-size: 50;
+	text-align: center ;
+}
+.s2{
+	text-align: centers;
+}
